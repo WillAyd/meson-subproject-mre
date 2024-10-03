@@ -1,0 +1,8 @@
+[wrap-file]
+directory = meson-subproject-mre-e7ca3a7cb46c2f0af1fb98cc4f1642537a650da8
+source_url = https://github.com/WillAyd/meson-subproject-mre/archive/e7ca3a7cb46c2f0af1fb98cc4f1642537a650da8.tar.gz
+source_filename = meson-subproject-mre-e7ca3a7cb46c2f0af1fb98cc4f1642537a650da8.tar.gz
+source_hash = 623a0a5f7d8dedc8ca3027e65e6fa86eb8b9436e3da8ca56595ac2ddb17f4fa2
+
+[provide]
+foo_dep = foo_dep
